@@ -1,0 +1,26 @@
+{
+  "name": "Writo",
+  "description": "app where you can pen down your thoughts",
+  "main": "index.html",
+  "keywords": [
+    "writo"
+  ],
+  "authors": [
+    "Vidya Kusuma"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "angular": "^1.6.1"
+  }
+}
